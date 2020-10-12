@@ -36,5 +36,10 @@ namespace _10_12_事件代码
         {
             this.button2.Click -= new System.EventHandler(this.button2_Click);
         }
+
+        private void button2_Click_1(object sender, EventArgs e)
+        {
+
+        }
     }
 }
