@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_事件的简单模型", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_标准事件模型", "02_标准事件模型\02_标准事件模型.csproj", "{FB075BF7-9860-41DE-8A33-3C72F42ED3FE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_逆变与协变", "03_逆变与协变\03_逆变与协变.csproj", "{5C96D23A-8B41-4F5C-8C6E-B5EFDC7BE91E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_泛型委托", "04_泛型委托\04_泛型委托.csproj", "{20B3A56D-6B71-42E7-A059-5F5BF3095E9D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{FB075BF7-9860-41DE-8A33-3C72F42ED3FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FB075BF7-9860-41DE-8A33-3C72F42ED3FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FB075BF7-9860-41DE-8A33-3C72F42ED3FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C96D23A-8B41-4F5C-8C6E-B5EFDC7BE91E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C96D23A-8B41-4F5C-8C6E-B5EFDC7BE91E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C96D23A-8B41-4F5C-8C6E-B5EFDC7BE91E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C96D23A-8B41-4F5C-8C6E-B5EFDC7BE91E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20B3A56D-6B71-42E7-A059-5F5BF3095E9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20B3A56D-6B71-42E7-A059-5F5BF3095E9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20B3A56D-6B71-42E7-A059-5F5BF3095E9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20B3A56D-6B71-42E7-A059-5F5BF3095E9D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
